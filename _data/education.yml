@@ -12,6 +12,7 @@
 - layout: left
   name: University of Leeds
   dates: 2015 - 2018
+  link: https://medicinehealth.leeds.ac.uk/medicine
   qualification: PhD Genomics Immunology
   quote: >
     placeholder.
@@ -19,7 +20,7 @@
     Novel genetic discoveries in rare primary immunodeficiencies.
 
 - layout: left
-  name: Trinity College Dublin.
+  name: Trinity College Dublin
   dates: 2013 - 2014
   qualification: MSc Immunology (Distinction)
   quote: >
