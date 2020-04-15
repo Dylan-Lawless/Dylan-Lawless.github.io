@@ -5,17 +5,17 @@ favicon: images/favicon.ico
 # Personal info
 name: Dylan Lawless
 title: Post-doc
-email: dylan.lawless@email.co.uk
+email: dylan.lawless@epfl.ch
 website: https://dylanlawlessblog.wordpress.com
 
 # Social links
-twitter_username: meddlawa
+twitter_username: @meddlaw
 # github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: lawless.ch
-linkedin_username: dylanlawless
+linkedin_username: dylan lawless
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,8 +24,10 @@ linkedin_username: dylanlawless
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Tester Hi, my name is Dylan and I'm a post-doc scientist. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Tester Hi, my name is Dylan and I'm a post-doc scientist.
+  Highly motivated & committed. Speciality: Human genomics & immunology. Style: Working with a wide range of specialists from international teams. Aim: To organise large, collaborative research projects in human health with a lasting impact based on open, reproducible science. 
+  Key skills: Collaborative, Big data analysis, Project management, Extract & visualise key data, Making complex systems simple 
+  
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
