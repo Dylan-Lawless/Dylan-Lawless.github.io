@@ -1,5 +1,5 @@
 # Site
-repository: Dylan-Lawless/resume-theme
+repository: Dylan-Lawless/modern-resume-theme
 favicon: images/favicon.ico
 
 # Personal info
@@ -59,7 +59,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: Dylan-Lawless/resume-theme
+remote_theme: Dylan-Lawless/modern-resume-theme
 
 sass:
   sass_dir: _sass
