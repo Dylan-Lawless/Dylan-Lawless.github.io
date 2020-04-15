@@ -53,7 +53,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Rock climbing
    - Gaming
    - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - [url link](https://www.youtube.com/)
 
 # Footer
 footer_show_references: true
