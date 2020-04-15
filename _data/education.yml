@@ -10,27 +10,27 @@
     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 - layout: left
-  name: University of Leeds. Novel genetic discoveries in rare primary immunodeficiencies
+  name: University of Leeds
   dates: 2015 - 2018
   qualification: PhD Genomics Immunology
   quote: >
     placeholder.
   description: | # this will include new lines to allow paragraphs
-    placeholder
+    Novel genetic discoveries in rare primary immunodeficiencies.
 
 - layout: left
-  name: Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
+  name: Trinity College Dublin.
   dates: 2013 - 2014
-  qualification: MSc (Distinction) Immunology
+  qualification: MSc Immunology (Distinction)
   quote: >
     placeholder.
   description: | # this will include new lines to allow paragraphs
-    placeholder
+    Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
 
 - layout: left
   name: University College Cork
   dates: 2009 - 2013
-  qualification: BSc (Honours) Microbiology
+  qualification: BSc Microbiology (Honours)
   quote: >
     placeholder
   description: | # this will include new lines to allow paragraphs
