@@ -7,21 +7,21 @@
   description: | # this will include new lines to allow paragraphs
   placeholder
 
-  layout: left
-  name: Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
-  dates: 2013 - 2014
-  qualification: MSc (Distinction) Immunology
-  quote: >
-  placeholder
-  description: | # this will include new lines to allow paragraphs
-  placeholder
+#  layout: left
+#  name: Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
+#  dates: 2013 - 2014
+#  qualification: MSc (Distinction) Immunology
+#  quote: >
+#  placeholder
+#  description: | # this will include new lines to allow paragraphs
+#  placeholder
 
-  layout: left
-  name: University College Cork
-  dates: 2009 - 2013
-  qualification: BSc (Honours) Microbiology
-  quote: >
-  placeholder
-  description: | # this will include new lines to allow paragraphs
-  placeholder
+#  layout: left
+#  name: University College Cork
+#  dates: 2009 - 2013
+#  qualification: BSc (Honours) Microbiology
+#  quote: >
+#  placeholder
+#  description: | # this will include new lines to allow paragraphs
+#  placeholder
 
