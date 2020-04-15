@@ -1,22 +1,24 @@
-layout: left
-name: University of Leeds. Novel genetic discoveries in rare primary immunodeficiencies
-dates: 2015 - 2018
+  layout: left
+  name: University of Leeds. Novel genetic discoveries in rare primary immunodeficiencies
+  dates: 2015 - 2018
   qualification: PhD Genomics Immunology
   quote: >
   placeholder
   description: | # this will include new lines to allow paragraphs
   placeholder
 
-name: Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
-dates: 2013 - 2014
+  layout: left
+  name: Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
+  dates: 2013 - 2014
   qualification: MSc (Distinction) Immunology
   quote: >
   placeholder
   description: | # this will include new lines to allow paragraphs
   placeholder
 
-name: University College Cork
-dates: 2009 - 2013
+  layout: left
+  name: University College Cork
+  dates: 2009 - 2013
   qualification: BSc (Honours) Microbiology
   quote: >
   placeholder
