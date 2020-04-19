@@ -2,8 +2,8 @@
   name: EPFL Postdoctoral study
   dates: 2018-current
   link: epfl.ch/labs/fellay-lab
-  quote: >
-    placeholder.
+  #  quote: >
+  #  placeholder.
   description: | # this will include new lines to allow paragraphs
     Human immunology and translational genomics. Working on large-scale human genomics, genetics of immune disorders, host-pathogen genetics, and genomic privacy in personal health. Collaborating on several national and international initiatives in human genetics and health. Skilled in big data analyses, state of the art methods in genomic analysis, statistics, study design, student supervision, team coordination, international project management, presentation, and scientific writing. 
   Fields of expertise: Bioinformatics, Innate and adaptive immunology, Primary immunodeficiencies, Autoinflammatory disease, NGS experiments and analysis, Functional and computational immunology, Privacy in personal health.

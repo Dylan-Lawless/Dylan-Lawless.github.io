@@ -3,8 +3,8 @@
   dates: 2015 - 2018
   link: medicinehealth.leeds.ac.uk/medicine
   qualification: PhD Genomics Immunology
-  quote: >
-    placeholder.
+  #   quote: >
+  #     placeholder.
   description: | # this will include new lines to allow paragraphs
     Novel genetic discoveries in rare primary immunodeficiencies.
 
@@ -13,8 +13,6 @@
   dates: 2013 - 2014
   link: tcd.ie/Biochemistry
   qualification: MSc Immunology (Distinction)
-  quote: >
-    placeholder.
   description: | # this will include new lines to allow paragraphs
     Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein.
 
@@ -23,7 +21,5 @@
   dates: 2009 - 2013
   link: ucc.ie/en/microbiology
   qualification: BSc Microbiology (Honours)
-  quote: >
-    placeholder
   description: | # this will include new lines to allow paragraphs
-    placeholder
+    Majors in medical microbiology, virology,  and research on Innate immunity in microbiology.

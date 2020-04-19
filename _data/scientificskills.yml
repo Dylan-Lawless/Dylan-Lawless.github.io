@@ -1,0 +1,10 @@
+- layout: left
+  name: xxskills
+  description: | # this will include new lines to allow paragraphs
+    Maintenance, manipulation and differentiation of iPSCs. Tissue culture of various cell lines, including primary cell lines
+#   Maintenance, breeding and dissections of chick embryos, pig eyes and zebrafish to retrieve eyes and retina for further culture and/or analysis
+#   Molecular biology – DNA/RNA extractions, PCR, qPCR, RT-PCR, gel electrophoresis, Sanger sequencing, site-directed mutagenesis, BCA assay, western blotting, immunofluorescence, microscopy, microbiology.
+#   Cell biology – Dual luciferase TOPflash assay, live cell imaging, in-vitro Matrigel tube formation assay, transfections and flow cytometry 
+#    Sectioning of FFPE tissue, DNA extraction from >15-year old samples
+#    NGS – WES, extraction of with FFPE and whole blood DNA, quality control, sequencing library preparation and Illumina HiSeq
+#    Bioinformatics – Analysis of WES data with in-house pipeline and various filtering steps, including best practices with GATK. Currently learning to work in R and RNA-seq analysis

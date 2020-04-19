@@ -2,7 +2,7 @@
 repository: Dylan-Lawless/modern-resume-theme
 favicon: images/favicon.ico
 
-# Personal info
+# Personal info 
 name: Dylan Lawless
 title: Postdoctoral researcher
 email: dylan.lawless@epfl.ch
@@ -15,7 +15,7 @@ twitter_username: meddlaw
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: lawless.ch
-linkedin_username: dylan-lawless-human-genomics
+linkedin_username: denisa-džulová-phd-67016a78
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -31,29 +31,29 @@ orcid_username: 0000-0001-8496-3725
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Dylan and I'm a post-doc scientist.
-  Highly motivated & committed. Speciality: Human genomics & immunology. Style: Working with a wide range of specialists from international teams. Aim: To organise large, collaborative research projects in human health with a lasting impact based on open, reproducible science. 
-  Key skills: Collaborative, Big data analysis, Project management, Extract & visualise key data, Making complex systems simple 
-  
-  I am most skilled in: <mark>xx</mark>
+  I have obtained a PhD in Immunology Genetics in  Leeds Institute of Medical Research, School of Medicine, University of Leeds, United Kingdom.
+Highly motivated & committed research scientist. Speciality: Human genomics & immunology. Style: Working with a wide range of specialists from international teams. Aim: To organise large, collaborative research projects in human health with a lasting impact based on open, reproducible science. Key skills: Collaborative, Big data analysis, Project management, Extract & visualise key data, Making complex systems simple 
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
+
+awards_title: Awards
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [url link](https://www.youtube.com/)
+# more_content: | # this will include new lines to allow paragraphs
+#  Other skills
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [url link](https://www.youtube.com/)
+
 
 # Footer
 footer_show_references: true
