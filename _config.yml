@@ -31,8 +31,8 @@ orcid_username: 0000-0001-8496-3725
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I have obtained a PhD in Immunology Genetics in  Leeds Institute of Medical Research, School of Medicine, University of Leeds, United Kingdom.
-    Highly motivated & committed research scientist. Speciality: Human genomics & immunology. Style: Working with a wide range of specialists from international teams. Aim: To organise large, collaborative research projects in human health with a lasting impact based on open, reproducible science. Key skills: Collaborative, Big data analysis, Project management, Extract & visualise key data, Making complex systems simple 
+  PhD in Immunology Genetics in  Leeds Institute of Medical Research, School of Medicine, University of Leeds, United Kingdom.
+  Highly motivated & committed research scientist. Speciality: Human genomics & immunology. Style: Working with a wide range of specialists from international teams. Aim: To organise large, collaborative research projects in human health with a lasting impact based on open, reproducible science. Key skills: Collaborative, Big data analysis, Project management, Extract & visualise key data, Making complex systems simple 
 
 # Projects Section
 projects_title: Projects
