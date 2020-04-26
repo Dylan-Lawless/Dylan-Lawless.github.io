@@ -12,3 +12,17 @@
   name: Software
   description: | # this will include new lines to allow paragraphs
       Proficient with most Linux/Gnu distributions and MacOS. Experience with installation and use of bioinformatics tools. Sequence analysis methods such as the GATK best practices. My PhD used exome sequence alignment, genotyping, recalibration, variant calling, complex inheritance, etc. Handling FASTQ, BAM, gVCF, etc. Data analysis and programming with R, Python, Bash, Shell-Scripting, LaTeX, Vim, tmux, etc. Enthusiastic to learn other languages. Experienced with most common Sanger sequencing software. Experienced with professional imaging software, protein structures, data visualisation. Development of small bioinformatics tools for population genetics.
+
+- layout: left
+  name: <strong>Teaching/tutoring</strong>
+  description: | # this will include new lines to allow paragraphs
+  <a href="https://edu.epfl.ch/coursebook/en/new-tools-research-strategies-in-personalized-health-BIO-491?cb_cycle=bama_cyclemaster&cb_section=sv">BIO491 - MSc New tools & research strategies in personalized health</a>
+  <a href="https://www.epfl.ch/schools/sv/education/summer-research-program/">EPFL - Summer Research Program</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BIOL-1302">BIOC1302 - Undergrad Biochemistry Practical Skills</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=MEDI-1216">MEDI1216 - Introduction to Medical Sciences </a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BLGY-1234">BLGY1234 - Practical Genetics</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BMSC-2224">BMSC2224 - Principles of Drug Discovery</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BMSC-2224">BMSC2224 - Principles of Drug Discovery</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BLGY-2201">BLGY2201 - Introduction to Bioinformatics</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BLGY-1125">BLGY1125 - Undergrad Biology Practicals and Data Analysis</a>
+  <a href="http://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=201718&M=BLGY-1232">BLGY1232 - Introduction to Genetics</a>
