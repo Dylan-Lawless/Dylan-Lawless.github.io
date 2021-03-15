@@ -12,8 +12,8 @@
   name: University of Leeds PhD
   dates: 2015 - 2018
   link: medicinehealth.leeds.ac.uk/medicine
-  quote: >
-    placeholder.
+  # quote: >
+  #   placeholder.
   description: | # this will include new lines to allow paragraphs
     PhD in Genomics and Immunology in novel genetic discoveries in rare primary immunodeficiencies. Genetic discoveries in immunology, combing wet-lab and bioinformatics. Merging clinical research with translational medicine. Using next-generation sequencing for patients with rare severe genetic disorders, to identify genetic determinants of disease. Studying in vivo and in vitro mechanisms to apply novel findings to human health. Experienced in whole genome and exome sequencing, molecular genetics, protein expression, a wide range of functional assays, big data analyses, statistical analysis, producing novel computational analysis, and applying best practices in state of the art bioinformatics.
    
@@ -21,8 +21,8 @@
   name: Trinity College Dublin MSc
   dates: 2013 - 2014
   link: tcd.ie/Biochemistry
-  quote: >
-    placeholder.
+  # quote: >
+  #  placeholder.
   description: | # this will include new lines to allow paragraphs
     Exploring the therapeutic potential of a peptide derived from a poxviral immune evasion protein. Studying a wide range of applications in immunology, human pathogens, allergy, immunodeficiency. Carried out functional immunology work exploring the therapeutic potential of peptides derived from viral immune evasion proteins. Skilled in protein expression, immunological assays, virology, protein structure work.
 
@@ -31,12 +31,3 @@
   dates: 2014 – 2015
   description: | # this will include new lines to allow paragraphs
     Analytical Scientist. Performing a wide range of esoteric assays for a number of clinical trials in human health. Handling a range of human tissues including whole blood preparation, flow cytometry, ELISA. Managing deadlines, data entry, GLM skills, and shared projects.
-
-
-# - layout: left
-#  company: The Test Company
-#  link: boringcompany.com
-#  job_title: Senior Network System Administrator
-#  dates: November 2017 - Present
-#  description: | # this will include new lines to allow paragraphs
-#    Every company needs its networks properly administered and The Boring Compay is no exception.
